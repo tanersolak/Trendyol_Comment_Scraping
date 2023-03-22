@@ -1,0 +1,1 @@
+# Trendyol_Yorum_Scraping
